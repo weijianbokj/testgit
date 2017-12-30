@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="357bed1a-500d-4979-964e-6d19af2716cf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HelloWorld.java" afterPath="$PROJECT_DIR$/src/HelloWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +29,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1514644354764" expanded="true" signature="18652:19065" ph="..." />
+                <marker date="1514644354764" expanded="true" signature="18712:19050" ph="..." />
+                <marker date="1514644354764" expanded="true" signature="18774:19037" ph="..." />
+                <marker date="1514644354764" expanded="true" signature="18819:19019" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -232,12 +236,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514641330717</updated>
-      <workItem from="1514641332958" duration="1925000" />
+      <workItem from="1514641332958" duration="1967000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1514644344799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514644344799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1514644358472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514644358472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1925000" />
+    <option name="totallyTimeSpent" value="1967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -277,6 +296,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -286,7 +309,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1514644354764" expanded="true" signature="18652:19065" ph="..." />
+            <marker date="1514644354764" expanded="true" signature="18712:19050" ph="..." />
+            <marker date="1514644354764" expanded="true" signature="18774:19037" ph="..." />
+            <marker date="1514644354764" expanded="true" signature="18819:19019" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
